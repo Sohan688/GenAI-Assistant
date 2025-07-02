@@ -26,6 +26,9 @@ Verify npm version:
         paste your api key
 
         
-   env = Url of backend for frontend 
+ 2->  env = Url of backend for frontend 
+      Go to your Frontend folder
+         Vi .env
+             
 
    
